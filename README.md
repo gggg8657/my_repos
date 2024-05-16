@@ -17,7 +17,7 @@
 ## ver_1 
     3rd Floor
         AFG Loss , MEFARG Feature, MEFARG Loss
-
+    
 ## ver_2
     7th Floor
         MEFARG Feature, MEFARG Loss
@@ -26,3 +26,15 @@
     7th FLoor
         MEFARG Loss
         purpose : checking AU Features' Influence
+
+## ver_4
+    3rd Floor
+        MEFARG (Feature, Loss) 3rd FLoor
+        Dimp_Loss
+        Chin_Loss
+
+## ver_notfound
+    7th Floor
+        AU Feature from AFG only
+        MRF Tunned between 1.0+-0.5
+        20240509 13~ 
