@@ -38,3 +38,5 @@
         AU Feature from AFG only
         MRF Tunned between 1.0+-0.5
         20240509 13~ 
+        results_AU_feature_only/results 
+        MRF clamp -20 to 20
